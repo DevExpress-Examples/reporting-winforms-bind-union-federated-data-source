@@ -24,7 +24,7 @@ You can create a federated data source to display data combined from several sou
 - [Reporting for WinForms - Bind a Report to A Federated Data Source](https://github.com/DevExpress-Examples/Reporting-Bind-Report-To-Federated-Data-Source)
 - [Reporting for WinForms - Create a Federated Data Source at Runtime](https://github.com/DevExpress-Examples/how-to-create-a-federated-data-source-at-runtime)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-bind-union-federated-data-source&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-bind-union-federated-data-source&~~~was_helpful=no)
 
